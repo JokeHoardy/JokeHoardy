@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JokeHoardy
+- 👀 I’m interested in ... sports data analysis
+- 🌱 I’m currently learning ... R
